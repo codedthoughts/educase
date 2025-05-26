@@ -1,3 +1,6 @@
+The live link is here : https://educase-assignment-rxbx.onrender.com
+
+
 # 📚 School Management API
 
 A Node.js API for managing school data, allowing users to add schools and retrieve a list of schools sorted by proximity to a specified location.
