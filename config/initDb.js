@@ -26,7 +26,7 @@ async function initializeDatabase() {
         latitude FLOAT NOT NULL,
         longitude FLOAT NOT NULL,
         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+        updated_at DATETIME
       )
     `);
     console.log('Schools table created or already exists');
