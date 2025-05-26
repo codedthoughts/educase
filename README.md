@@ -1,5 +1,6 @@
 The live link is here : https://educase-assignment-rxbx.onrender.com
 
+Use this link for fetching schools : https://educase-assignment-rxbx.onrender.com/listSchools?latitude=28.6139&longitude=77.2090
 
 # 📚 School Management API
 
